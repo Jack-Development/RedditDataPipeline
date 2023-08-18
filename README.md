@@ -1,12 +1,12 @@
 &nbsp;
 <div id="header" align="center">
-  <img src="https://github.com/Jack-Development/RedditDataPipeline/blob/main/Resources/logo.png" width="300"/>
+  <img src="https://github.com/Jack-Development/RedditFetch/blob/main/Resources/logo.png" width="300"/>
 </div>
 &nbsp;
 
-# RedditDataPipeline
+# RedditFetch
 
-RedditDataPipeline is a robust and efficient tool for collecting and managing datasets from Reddit. This repository is designed to fetch posts and comments from specified Reddit users, assign unique IDs to users, and save the data in a structured manner.
+RedditFetch is a robust and efficient tool for collecting and managing datasets from Reddit. This repository is designed to fetch posts and comments from specified Reddit users, assign unique IDs to users, and save the data in a structured manner.
 
 Inspired by the vast amount of data available on Reddit and the need for a streamlined data collection process, this project was developed to provide a seamless experience for researchers and developers interested in Reddit data.
 
